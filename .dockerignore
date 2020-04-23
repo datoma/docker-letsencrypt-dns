@@ -1,0 +1,8 @@
+.git
+.circleci
+images
+tests
+data
+LICENSE
+VERSION
+README.md
